@@ -1,2 +1,0 @@
-# Packer
-Holding packer templates
