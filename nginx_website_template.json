@@ -1,7 +1,7 @@
 {
   "builders": [
             {
-              "profile" : "vijay",
+              "profile" : "default",
               "type" : "amazon-ebs",
               "region": "eu-west-2",
               "source_ami" : "ami-0a669382ea0feb73a",
